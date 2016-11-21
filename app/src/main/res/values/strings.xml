@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasketBallScoresCounter</string>
+    <string name="empty_scores_list">0</string>
+    <string name="reset_score">Reset</string>
+    <string name="score3">3</string>
+    <string name="score1">1</string>
+    <string name="score2">2</string>
+</resources>

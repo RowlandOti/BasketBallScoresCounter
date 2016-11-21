@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="AppTheme.Dark" parent="AppBaseThemeNoActionBar.Dark" />
+
+    <!-- Base application theme. -->
+    <style name="AppBaseThemeNoActionBar.Dark" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/apptheme_primary_grey_light</item>
+        <item name="colorPrimaryDark">@color/apptheme_primary_grey</item>
+        <item name="colorAccent">@color/apptheme_accent_teal</item>
+    </style>
+
+
+
+    <!-- Widget CoordinatorLayout styles -->
+    <style name="Widget.App.CoordinatorLayout" parent="Widget.Design.CoordinatorLayout"></style>
+    <!-- Widget FloatingActionButton styles -->
+    <style name="Widget.App.FloatingActionButton" parent="Widget.Design.FloatingActionButton"></style>
+    <!-- Widget AppBarLayout styles -->
+    <style name="Widget.App.AppBarLayout" parent="Widget.Design.AppBarLayout"></style>
+
+    <style name="AppTheme.Dark.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.Dark.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>
